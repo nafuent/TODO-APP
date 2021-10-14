@@ -1,8 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+# TODO-APP
+TODO APP with Reach
 
 In the project directory, you can run:
 
@@ -67,5 +64,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-# TODO-APP
-TODO APP with Reach
+
